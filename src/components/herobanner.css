@@ -1,0 +1,33 @@
+.hero-banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 450px;
+
+}
+
+
+
+.hero-banner-left {
+
+}
+
+.hero-banner-logo {
+    text-align: center;
+    font-size: 80px;
+    font-family: "Arial";
+    font-weight: lighter;
+}
+
+.hero-headline {
+    color: white;
+
+}
+
+.white {
+    color: white;
+}
+
+.turq {
+    color: #2BFFFA ;
+}

@@ -1,0 +1,26 @@
+.navbar {
+    /* background-color: #030303; */
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+
+.navbar-logo{
+    padding: 15px 25px ;
+}
+
+
+.navitems{
+
+}
+
+.nav-item {
+    padding: 15px 25px; 
+}
+
+
+.item {
+    color: white;
+    text-decoration: none;
+}
+
